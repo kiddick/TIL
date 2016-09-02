@@ -15,3 +15,4 @@ Collection of random stuff which I've learned today.
 * [Git commit with -a option](09-01-2016.md#git-commit-with--a-option)
 * [Change the most recent commit message](09-01-2016.md#change-the-most-recent-commit-message)
 * [XON/XOFF flow control](09-01-2016.md#xonxoff-flow-control)
+* [Cross tab accessible bash history](09-02-2016.md#cross-tab-accessible-bash-history)
