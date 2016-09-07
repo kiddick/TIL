@@ -25,6 +25,6 @@ with open('README.md', 'a') as readme:
             for i, el in enumerate(content):
                 border = set(el)
                 if len(border) == 1 and '-' in border:
-                    anchor = content[i-1].lower().replace(' ', '-').replace('\'', '').replace('/', '')
+                    anchor = content[i-1].lower().replace(' ', '-').replace('\'', '').replace('/', '').replace(':', '')
                     readme.write('* [{}]({}#{})\n'.format(
                         content[i-1], fname, anchor))
