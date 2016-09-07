@@ -16,3 +16,6 @@ Collection of random stuff which I've learned today.
 * [Change the most recent commit message](09-01-2016.md#change-the-most-recent-commit-message)
 * [XON/XOFF flow control](09-01-2016.md#xonxoff-flow-control)
 * [Cross tab accessible bash history](09-02-2016.md#cross-tab-accessible-bash-history)
+* [Permissions for ssh key](09-07-2016.md#permissions-for-ssh-key)
+* [Lower/Upper text in sublime text](09-07-2016.md#lowerupper-text-in-sublime-text)
+* [Run python with unbuffered binary stdout and stderr:](09-07-2016.md#run-python-with-unbuffered-binary-stdout-and-stderr:)
