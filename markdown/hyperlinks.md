@@ -4,7 +4,7 @@ The main syntax:
 [TEXT RELATED TO LINK](URL)
 ```
 
-Other vatiations:
+Other variations:
 
 ```
 [I'm an inline-style link](https://www.google.com)
